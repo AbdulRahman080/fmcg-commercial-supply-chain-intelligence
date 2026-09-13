@@ -1,10 +1,5 @@
 # Global FMCG Commercial & Supply Chain Intelligence
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-blue)
-![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-orange)
-![Dataset](https://img.shields.io/badge/Dataset-1.1M%20Records-green)
-
 An end-to-end **Power BI commercial and supply-chain intelligence solution** built using 1.1 million FMCG transaction records across 3 years, 7 countries, 13 stores, 102 products, and 60 suppliers.
 
 The project combines **Power Query, dimensional data modeling, DAX, time-series analysis, inventory analytics, supplier performance analysis, geographic analysis, forecasting, and interactive what-if scenario modeling** into a single executive-style business intelligence solution.
@@ -15,7 +10,7 @@ The project combines **Power Query, dimensional data modeling, DAX, time-series 
 
 ### Executive Overview
 
-![Executive Overview](screenshots/ExecutiveOverview.png)
+![Executive Overview](screenshots/1-ExecutiveOverview.png)
 
 The executive dashboard provides a high-level view of commercial performance, profitability, inventory risk, and supply-chain indicators.
 
