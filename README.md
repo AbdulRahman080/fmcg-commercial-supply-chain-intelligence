@@ -10,7 +10,7 @@ The project combines **Power Query, dimensional data modeling, DAX, time-series 
 
 ### Executive Overview
 
-![Executive Overview](screenshots/1-ExecutiveOverview.png)
+![Executive Overview](screenshots/1-ExecutiveOverview.PNG)
 
 The executive dashboard provides a high-level view of commercial performance, profitability, inventory risk, and supply-chain indicators.
 
